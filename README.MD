@@ -1,6 +1,16 @@
 # 📊 Analisi Statistiche Giocatori
 
-Questo progetto analizza statistiche di giocatori e genera previsioni basate sui dati storici.
+Questo progetto utilizza Python e la libreria pandas per analizzare i dati storici delle prestazioni di tre grandi attaccanti: Lautaro Martínez, Dušan Vlahović e Romelu Lukaku. L'obiettivo è esaminare il loro rendimento in termini di goal segnati, media realizzativa e altre statistiche rilevanti dal 2020 al 2025.
+
+🔹 Caratteristiche principali:
+✅ Raccolta e pulizia dei dati con pandas
+✅ Creazione di grafici interattivi per visualizzare le tendenze con matplotlib
+✅ Analisi comparativa delle prestazioni nei diversi campionati/stagioni
+
+📈 Tecnologie utilizzate:
+
+Python (pandas, matplotlib, numpy)
+GitHub per la gestione del progetto
 
 ## 📥 Installazione
 
